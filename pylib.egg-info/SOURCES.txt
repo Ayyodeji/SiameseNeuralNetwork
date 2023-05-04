@@ -1,0 +1,8 @@
+README.md
+setup.py
+pylib/__init__.py
+pylib/myfunctions.py
+pylib.egg-info/PKG-INFO
+pylib.egg-info/SOURCES.txt
+pylib.egg-info/dependency_links.txt
+pylib.egg-info/top_level.txt
