@@ -34,7 +34,7 @@ cd SiameseNeuralNetwork
 
 ## Usage
 
-### Training the Siamese Model
+### Running the Siamese Model
 
 To run the Siamese neural network model, run the following command:
 python main.py
