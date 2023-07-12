@@ -8,7 +8,7 @@ This repository contains an implementation of a Siamese neural network used for 
 - `siamese_network.py`: Contains functions for constructing the Siamese network architecture and defining the triplet loss function.
 - `distance_layer.py`: Defines the DistanceLayer class used to compute the Euclidean distances between encoded feature vectors.
 - `utils.py`: Includes utility functions for data preprocessing and loading the dataset.
-- `singletest.py`: Provides a function for predicting gene image similarity on a single input gene image.
+- `main.py`: Provides a function for running the application.
 
 ## Installation and Setup
 
